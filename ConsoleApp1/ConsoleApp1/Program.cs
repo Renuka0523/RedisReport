@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            Console.Writeline("Hello, There");
+            Console.WriteLine("Hello, There");
             Console.WriteLine("Add new Chnages");
         }
     }
