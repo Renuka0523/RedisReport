@@ -12,21 +12,9 @@
 
             s2.GetDatabaseObject().StringGet("person");
 
-            //if (s1 == s2)
-            //{
-            // Console.WriteLine("Singleton works, both vaariables contain the sonme instance");
-
-            //  s1.SomeLogic().stringSet("key","valey");
-
+        
+            
             Console.ReadLine();
-
-
-            //  }
-            // else
-            // {
-            //    Console.WriteLine("Singleton failed, variables contain diffrent instance");
-            // }
-            // Console.ReadLine();
 
         }
     }
